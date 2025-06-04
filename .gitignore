@@ -22,3 +22,16 @@ QFramework.Unity2018+/AssetBundles/
 QFramework.Unity2018+/Assets/StreamingAssets/AssetBundles/
 QFramework.Unity2018+/Assets/StreamingAssets/AssetBundles.meta
 .DS_Store
+# General Unity ignores
+Library/
+Temp/
+obj/
+Builds/
+AssetBundles/
+Assets/StreamingAssets/AssetBundles/
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
